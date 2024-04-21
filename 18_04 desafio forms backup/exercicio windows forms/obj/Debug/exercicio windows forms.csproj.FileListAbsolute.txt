@@ -1,0 +1,56 @@
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form5.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form6.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form10.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form4.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form4.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form6.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form11.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form12.resources
+C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form9.resources

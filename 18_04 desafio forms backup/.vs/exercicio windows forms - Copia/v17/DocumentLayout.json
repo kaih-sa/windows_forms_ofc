@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|c:\\users\\user\\desktop\\11_04 desafio forms backup\\exercicio windows forms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|solutionrelative:exercicio windows forms\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\exercicio windows forms\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD9BC4C-CC50-4D82-85C1-96779F4FD27A}|exercicio windows forms\\exercicio windows forms.csproj|solutionrelative:exercicio windows forms\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\exercicio windows forms\\Form8.cs",
+              "RelativeDocumentMoniker": "exercicio windows forms\\Form8.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\exercicio windows forms\\Form8.cs [Design]",
+              "RelativeToolTip": "exercicio windows forms\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:45:37.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\exercicio windows forms\\Form9.cs",
+              "RelativeDocumentMoniker": "exercicio windows forms\\Form9.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\11_04 desafio forms backup\\exercicio windows forms\\Form9.cs [Design]",
+              "RelativeToolTip": "exercicio windows forms\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:45:30.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
