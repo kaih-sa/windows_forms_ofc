@@ -12,8 +12,24 @@ namespace exercicio_windows_forms
 {
     public partial class Form4 : Form
     {
-        public int limite = 0;
-        Musicas[] lista_musicas = new Musicas[5];
+        //public int limite = 0;
+        //public List<string> cantores = new List<string>();
+        
+
+       /* List<string> musicas = new List<string>();
+        List<string> notas = new List<string>();*/
+
+        public static List<string> cantores = new List<string>();
+
+        public void AdicionarItem(string a)
+        {
+            cantores.Add(a);
+        }
+
+        public List<string> ObterLista()
+        {
+            return cantores;
+        }
         public Form4()
         {
             InitializeComponent();
@@ -61,15 +77,29 @@ namespace exercicio_windows_forms
 
         public void button1_Click(object sender, EventArgs e)
         {
-            
-            Musicas x = new Musicas();
-            
-            //kai
-            
+
+            //Musicas x = new Musicas();
+
+
+            AdicionarItem(textBox2.Text);
+            /*musicas.Add(textBox1.Text);
+            notas.Add(textBox3.Text);*/
+
+            Console.WriteLine("Cantores1: ");
+            foreach (string x in cantores)
+            {
+                Console.WriteLine(x);
+            }
+
+            /*
             x.setTitulo(textBox1.Text);
             x.setAutor(textBox2.Text);
             x.setNota(textBox3.Text);
-            lista_musicas[limite] = x;
+            */
+
+            /*
+             Mostrar se ta armazenando:
+              lista_musicas[limite] = x;
             limite++;
            
 
@@ -78,8 +108,9 @@ namespace exercicio_windows_forms
 
                 Console.WriteLine($"Música: {lista_musicas[i].getTitulo()} \n Cantor: {lista_musicas[i].getAutor()}\n Nota: {lista_musicas[i].getNota()}");
             }
+            */
 
-           
+
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -103,6 +134,31 @@ namespace exercicio_windows_forms
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listView1.View = View.List; // Exibir os itens em uma lista
+            foreach (string item in cantores)
+            {
+                listView1.Items.Add(item);
+            }
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

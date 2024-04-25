@@ -12,19 +12,11 @@ namespace exercicio_windows_forms
 {
     public partial class Form9 : Form
     {
+        public string TextoPronto { get; private set; }
         public class TextosExistentes
         {
-            private string TextoPronto;
+            public string TextoPronto { get; set; }
 
-            public string getTextoPronto()
-            {
-                return TextoPronto;
-            }
-
-            public void setTextoPronto(string txt)
-            {
-                this.TextoPronto = txt;
-            }
         }
         public Form9()
         {

@@ -54,3 +54,21 @@ C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Deb
 C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form11.resources
 C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form12.resources
 C:\Users\user\Desktop\11_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form9.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form11.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form12.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form4.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form6.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form9.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\user\Desktop\etezisse\3\DPL\1Desa. Tec. forms\18_04 desafio forms backup\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources

@@ -10,20 +10,14 @@ using System.Windows.Forms;
 
 namespace exercicio_windows_forms
 {
-    public partial class Form12 : Form
+    public partial class Form3 : Form
     {
-        public Form12(string TextoPronto)
+        public Form3()
         {
             InitializeComponent();
-            label.Text = "Conteúdo escrito: " + TextoPronto;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form12_Load(object sender, EventArgs e)
+        private void Form3_Load(object sender, EventArgs e)
         {
 
         }
